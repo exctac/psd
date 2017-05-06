@@ -1,0 +1,6 @@
+[1022/124254:INFO:CONSOLE(0)] "Unsafe JavaScript attempt to access frame with URL file:///C:/Program%20Files%20(x86)/Common%20Files/Adobe/CEPServiceManager4/extensions/GuideGuide/guideguide/guideguide/panel.html from frame with URL file:///C:/Program%20Files%20(x86)/Common%20Files/Adobe/CEPServiceManager4/extensions/GuideGuide/index.html. Domains, protocols and ports must match.
+," source: (0)
+[1022/124254:INFO:CONSOLE(0)] "Uncaught TypeError: undefined is not a function," source: file:///C:/Program%20Files%20(x86)/Common%20Files/Adobe/CEPServiceManager4/extensions/GuideGuide/ext.js(5)
+[1026/181106:INFO:CONSOLE(0)] "Unsafe JavaScript attempt to access frame with URL file:///C:/Program%20Files%20(x86)/Common%20Files/Adobe/CEPServiceManager4/extensions/GuideGuide/guideguide/guideguide/panel.html from frame with URL file:///C:/Program%20Files%20(x86)/Common%20Files/Adobe/CEPServiceManager4/extensions/GuideGuide/index.html. Domains, protocols and ports must match.
+," source: (0)
+[1026/181106:INFO:CONSOLE(0)] "Uncaught TypeError: undefined is not a function," source: file:///C:/Program%20Files%20(x86)/Common%20Files/Adobe/CEPServiceManager4/extensions/GuideGuide/ext.js(5)
